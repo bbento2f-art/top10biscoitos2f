@@ -1,0 +1,53 @@
+#title{
+    background-color:rgb(194, 206, 227);
+    border-width: 3px;
+    border-color:rgb(219, 223, 232);
+    border-style:solid;
+    margin-bottom:30px;
+}
+#buttonBar button{
+    margin-top:0;
+    font-size:40px;
+    background-image: linear-gradient(to bottom, cornflowerblue, darkblue);
+
+}
+h1{
+    background-color:rgb(194, 206, 227);
+    border-width: 3px;
+    border-color:rgb(219, 223, 232);
+    border-style:solid;
+    margin:0;
+    color:
+}
+div{
+    background-color:rgb(194, 206, 227);
+    border-width: 3px;
+    border-color:rgb(219, 223, 232);
+    border-style:solid;
+}
+div h1{
+    background-color:rgb(99, 147, 230);
+}
+#toptres{
+    background-color:rgb(110, 73, 8);
+    border-width: 3px;
+    border-color:rgb(0, 0, 0);
+    border-style:solid;
+}
+#topdois{
+    background-color:rgb(121, 128, 129);
+    border-width: 3px;
+    border-color:rgb(0, 0, 0);
+    border-style:solid;
+}
+#topum{
+    background-color: rgb(255, 233, 69);
+    border-width: 3px;
+    border-color:rgb(0, 0, 0);
+    border-style:solid;
+}
+#buttonBar{
+    background-image: linear-gradient(to bottom, cornsilk, cornflowerblue);
+    border-width:1px;
+    border-style: solid;
+}
